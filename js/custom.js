@@ -33,7 +33,7 @@
   });
 
   // CONTACT FORM (static hosting): open user's email client with pre-filled enquiry
-  const CONTACT_TO = 'info@hackerkitchens-london.com';
+  const CONTACT_TO = 'sales@hackerkitchens-london.com';
 
   $('.contact-form').on('submit', function (e) {
     e.preventDefault();
